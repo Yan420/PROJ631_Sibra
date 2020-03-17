@@ -1,0 +1,6 @@
+Pour ce TP, j'ai:
+
+-ajouté toutes les lignes, sens et horaires donnés, car il n'y avait qu'une ligne dans un sens qui me servait pour les tests
+-corrigé un bug qui causait un programme d'ignorer le dernier arret d'une ligne, causant des out of range plus loin dans le main
+-Commencé un alorithme qui permttra de donner tous les chemins possibles (sans cycle) pour partir d'un arret et arriver à un autre, les resultats de ce programme permattra de repondre aux trois questions du sujet
+
